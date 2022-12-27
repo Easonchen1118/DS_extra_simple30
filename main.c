@@ -1,5 +1,5 @@
 #include <stdio.h>
-//星座查詢
+//星座查詢https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30780
 int main(){
     int month, date;
     scanf("%d %d", &month, &date);
